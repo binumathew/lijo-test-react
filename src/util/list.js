@@ -1,0 +1,58 @@
+export const list = [
+    {
+      id: 1,
+      name: "Google Analytics",
+      icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/512px-GAnalytics.svg.png",
+      path: "",
+      bgcolor: "",
+    },
+    {
+      id: 2,
+      name: "Google Search Console",
+      icon: "https://iconape.com/wp-content/files/ty/64563/png/google-search-console.png",
+      path: "",
+      bgcolor: "",
+    },
+    {
+      id: 3,
+      name: "Google Ads",
+      icon: "https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_ads-512.png",
+      path: "",
+      bgcolor: "",
+    },
+    {
+      id: 4,
+      name: "Bing Ads",
+      icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bing_Fluent_Logo.svg/1200px-Bing_Fluent_Logo.svg.png",
+      path: "",
+      bgcolor: "",
+    },
+    {
+      id: 5,
+      name: "Twitter Ads",
+      icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/800px-Logo_of_Twitter.svg.png",
+      path: "",
+      bgcolor: "",
+    },
+    {
+      id: 6,
+      name: "LinkedIn Ads",
+      icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png",
+      path: "",
+      bgcolor: "",
+    },
+    {
+      id: 7,
+      name: "Shopify",
+      icon: "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png",
+      path: "",
+      bgcolor: "",
+    },
+    {
+      id: 8,
+      name: "Youtube",
+      icon: "https://cdn-icons-png.flaticon.com/256/1384/1384060.png",
+      path: "",
+      bgcolor: "",
+    },
+  ];
