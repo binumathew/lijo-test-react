@@ -6,9 +6,9 @@ function Main() {
   return (
     <>
       <div className="row">
-        <div className="col" style={{ border: "1px solid black" }}>
+        {/* <div className="col" style={{ border: "1px solid black" }}>
           <Holder />
-        </div>
+        </div> */}
         <div className="col" style={{ border: "1px solid black" }}>
           <MainHolder />
         </div>
