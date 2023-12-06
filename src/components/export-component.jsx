@@ -4,7 +4,7 @@ function ExportComponent() {
   const location = useLocation();
   const state_display = location.state;
   return (
-    {...state_display}
+    <div dangerouslySetInnerHTML={state_display}></div>
   )
 }
 
